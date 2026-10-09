@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Keyboard Sounds</string>
+    <string name="accessibility_service_label">Keyboard Sounds Typing Engine</string>
+    <string name="accessibility_service_description">Plays authentic mechanical keyboard clicks (NovelKeys Cream, Cherry MX, Holy Panda) when you type on your phone keyboard.</string>
+    
+    <string name="service_status_enabled">Status: Active &amp; Ready</string>
+    <string name="service_status_disabled">Status: Service Not Enabled</string>
+    <string name="enable_service_btn">Enable in Accessibility Settings</string>
+    <string name="select_profile_title">Select Sound Profile</string>
+    <string name="volume_title">Typing Sound Volume</string>
+    <string name="haptics_title">Haptic Tactile Click</string>
+    <string name="test_field_hint">Type here to test mechanical clicks...</string>
+    <string name="privacy_notice">🔒 100% Offline &amp; Private: This app never stores or sends what you type.</string>
+</resources>
